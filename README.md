@@ -1,7 +1,7 @@
 
 ## Key Homepage
 
-# url: www.tavik000.github.io
+# url: https://tavik000.github.io/
 
 
 Shout out to `BeiYuu`
